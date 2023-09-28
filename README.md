@@ -2,13 +2,6 @@
 
 
 - 🌱 I’m currently learning **Devop's and Web3 Technologies**
-
-- 👯 I’m looking to collaborate on **Long term project**
-
-- 👨‍💻 All of my projects are available at [https://malekabbes.com](https://malekabbes.com)
-
-- 📝 I regularly write articles on [https://malekabbes.hashnode.dev](https://malekabbes.hashnode.dev) also started writing on dev.to [https://dev.to/malekabbes/](https://dev.to/malekabbes/))
-
 - 💬 Ask me about **Spring boot , React , angular , Symfony, Laravel**
 
 - 📫 How to reach me **siwar.atiya@esprit.tn**
