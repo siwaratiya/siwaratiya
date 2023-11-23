@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=600&size=30&pause=1000&color=ff367b&background=FFFFF400&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Siwar" />
   </p>
   ## 🥇:Achievements
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siwarariya" alt="siwarariya" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siwaratiya" alt="siwarariya" /></a> </p>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=siwaratiya&label=Profile%20views&color=0e75b6&style=flat" alt="siwaratiya's profile views" />
 </p>
