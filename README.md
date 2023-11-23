@@ -15,7 +15,11 @@
 ## ✋:About me
 <img width="26%" align="right" alt="Coding" src="https://miro.medium.com/v2/resize:fit:679/1*gReLR6hZjwyBxHmfLN1AVw.gif">
 
-- 🌱 I’m currently learning **Devop's and Web3 Technologies**
+- 🔭 I’m currently studying at ESPRIT Higher School of Engineering  https://esprit.tn/
+- 🌱 I’m currently learning **Devop's , Node.js , React.js  and
+  I'm also keeping an eye on emerging
+   frameworks like Vue.js and Svelte, which offer exciting possibilities for
+   creating modern web experiences**
 - 💬 Ask me about **Spring boot , React , angular , Symfony, Laravel**
 
 - 📫 How to reach me **siwar.atiya@esprit.tn**
