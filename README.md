@@ -12,6 +12,9 @@
   <img src="https://komarev.com/ghpvc/?username=siwaratiya&label=Profile%20views&color=0e75b6&style=flat" alt="siwaratiya's profile views" />
 </p>
 
+## ✋:About me
+<img width="26%" align="right" alt="Coding" src="https://miro.medium.com/v2/resize:fit:679/1*gReLR6hZjwyBxHmfLN1AVw.gif">
+
 - 🌱 I’m currently learning **Devop's and Web3 Technologies**
 - 💬 Ask me about **Spring boot , React , angular , Symfony, Laravel**
 
