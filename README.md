@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=600&size=30&pause=1000&color=ff367b&background=FFFFF400&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Siwar" />
   </p>
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=aminesaassougui&label=Profile%20views&color=0e75b6&style=flat" alt="aminesaassougui's profile views" />
+  <img src="https://komarev.com/ghpvc/?username=aminesaassougui&label=Profile%20views&color=0e75b6&style=flat" alt="siwaratiya's profile views" />
 </p>
 
 - 🌱 I’m currently learning **Devop's and Web3 Technologies**
